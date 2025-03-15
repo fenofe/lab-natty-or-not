@@ -1,51 +1,81 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de musica utilizando AI Generativa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+riação de musica pelo SUNO e letra utilizando o POE.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+POE
+https://poe.com/chat/396of2ozuezdan8n4r3
+
+SUNO
+https://suno.com/create?wid=default 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando o POE fiz uma solicitação ao Bot SunoPrompter para criar uma prompt para utilizar no Suno e criar uma música.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+## O prompt criado pelo SunoPrompter: [
+Here is a prompt for a bluesy classic song:
+
+[Intro - Guitar Arpeggios][Moody Atmosphere][Bluesy Chord Progression]
+Chasing shadows
+
+[Verse 1]
+[Chorus]
+[Interlude - Soulful Guitar Solo][Emotive Vibrato][Bluesy Bends]
+[Verse 2]
+[Chorus]
+[Bridge - Haunting Harmonies][Building Intensity][Swelling Strings]
+[Final Chorus - Soaring Vocals][Cathartic Release][Fading to Silence]
+
+## Resultado criado pelo SUNO:
+
+![image](https://github.com/user-attachments/assets/728ac30f-7a6d-4a2a-834d-ab322b5377cf)
+
+### Chasing Shadows - Titulo da música
+
+Profile avatar -ThrivingBridge572
+Caracteristicas(beats, atmospheric, moody, bluesy)
+
+[Verse]
+Midnight hour the city's still
+Lonely whispers on the chill
+Lamp posts hum their glowing song
+Where did those bright lights belong
+
+[Verse 2]
+Rain-soaked asphalt mirrors skies
+Broken dreams beneath closed eyes
+Neon flickers in the haze
+Chasing shadows through the maze
+
+[Chorus]
+Under streetlights ghosts will dance
+Lost in echoes of a chance
+Every footstep feels so loud
+Carrying memories unallowed
+
+[Bridge]
+Cobblestones and fading light
+Draw the lines between wrong and right
+Every corner hides a tale
+Of love that soared then set to fail
+
+[Verse 3]
+Darkened alleys paint my fate
+Time moves slow yet it's too late
+The night's a veil that cloaks the fight
+Chasing shadows till the light
+
+[Chorus]
+Under streetlights ghosts will dance
+Lost in echoes of a chance
+Every footstep feels so loud
+Carrying memories unallowed
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Achei super interessante o desafio e criei uma música que ficou muito agradavel de ouvir e curtir. Valeu demais o desafio. 
